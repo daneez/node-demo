@@ -1,3 +1,3 @@
 # node-demo
 ##### start
-```node app.js
+> node app.js
